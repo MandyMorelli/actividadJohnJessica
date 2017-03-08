@@ -11,9 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        
-        echo 'Copyright 2017';
-
-        ?>
+            echo "Amanda --> Jessica   Sara --> Jhon";
+            echo 'Copyright 2017';
+            ?>
     </body>
 </html>
