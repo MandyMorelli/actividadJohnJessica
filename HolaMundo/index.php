@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Amanda --> Jessica   Sara --> Jhon";
+            echo "Amanda(Oliva) --> Jessica   Sara(Gandia) --> Jhon";
         ?>
     </body>
 </html>
