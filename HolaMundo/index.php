@@ -12,9 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "Amanda(Oliva) --> Jessica   Sara(Gandia) --> Jhon";
-            
+            echo "© Copyright";
             ?>
     </body>
 </html>
-
-<!-- © ->
